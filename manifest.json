@@ -1,0 +1,10 @@
+{
+	"id": "deciduous",
+	"name": "Deciduous",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "An obsidian plugin for a web app that simplifies building decision trees to model adverse scenarios",
+	"author": "0xdade",
+	"authorUrl": "https://0xda.de",
+	"isDesktopOnly": false
+}
